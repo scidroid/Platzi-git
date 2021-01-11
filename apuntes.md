@@ -34,3 +34,18 @@ configura un email global
 
 mueve los archivos al repositorio
 
+### git log
+
+te sirve para ver los cambios entre commits
+
+### git show
+
+muestra los cambios a detalle
+
+### git diff commit1 commit2
+
+compara el contenido de 2 commits
+
+### git reset (--hard elimina el staging area) (--soft mantiene el staging area)
+
+vuelve a un commit anterior
