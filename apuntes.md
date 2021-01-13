@@ -62,5 +62,14 @@ crea una nueva rama
 
 fusiona 2 ramas en la actual
 
+## GitHub y repositorio remoto
 
+### git emote add nombre url
 
+añade una dieccion de un repositorio remoto
+
+### git remote (-v para mas información)
+
+te muestra toda la información de los repositorios remotos.
+
+### git pull origin master
