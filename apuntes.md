@@ -58,7 +58,9 @@ devuelve archivos de un commit.
 
 crea una nueva rama
 
-### git merge rama1
+### git merge rama
 
-guarda
+fusiona 2 ramas en la actual
+
+
 
