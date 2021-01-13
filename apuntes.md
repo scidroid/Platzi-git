@@ -34,7 +34,7 @@ configura un email global
 
 mueve los archivos al repositorio
 
-### git log
+### git log (--stat para mas informacion)
 
 te sirve para ver los cambios entre commits
 
@@ -49,3 +49,8 @@ compara el contenido de 2 commits
 ### git reset (--hard elimina el staging area) (--soft mantiene el staging area)
 
 vuelve a un commit anterior
+
+### git checkout commit archivo
+
+devuelve archivos de un commit.
+
