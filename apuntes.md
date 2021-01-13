@@ -50,7 +50,12 @@ compara el contenido de 2 commits
 
 vuelve a un commit anterior
 
-### git checkout commit archivo
+### git checkout commit archivo (si escribes el nombre de una rama y nada mas te cambia a ella)
 
 devuelve archivos de un commit.
 
+### git brach rama
+
+crea una nueva rama
+
+### 
