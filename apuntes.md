@@ -72,4 +72,12 @@ añade una dieccion de un repositorio remoto
 
 te muestra toda la información de los repositorios remotos.
 
-### git pull origin master
+### git pull repo rama
+
+agrega a tu repositorio local los cambios de remoto
+
+### git push repo rama
+
+sube commits al repositorio remoto
+
+### 
