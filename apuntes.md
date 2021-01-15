@@ -79,3 +79,19 @@ agrega a tu repositorio local los cambios de remoto
 ### git push repo rama
 
 sube commits al repositorio remoto
+
+### git tag -a nombre -m "mensaje" commit
+
+agrega un tag a tu repositorio.
+
+### git tag
+
+te muestra los tags que tienes
+
+### git show-ref --tags
+
+te muestra e commit asignado al tag
+
+### git push repositorio --tags
+
+envia los tags a tu repositorio remoto
