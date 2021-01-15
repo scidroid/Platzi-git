@@ -79,5 +79,3 @@ agrega a tu repositorio local los cambios de remoto
 ### git push repo rama
 
 sube commits al repositorio remoto
-
-### 
