@@ -95,3 +95,17 @@ te muestra e commit asignado al tag
 ### git push repositorio --tags
 
 envia los tags a tu repositorio remoto
+
+### git tag -d tag
+
+elimina un tag
+
+### git push repositorio:refs/tags/tag
+
+elimina el tag borado localmente de un repositorio remoto
+
+### git show-branch
+
+Te muestra las ramas 
+
+### git show-branch
