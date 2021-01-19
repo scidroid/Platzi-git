@@ -124,8 +124,24 @@ fusiona los commits de dos ramas para que pareciera que fueran la misma
 
 guarda los cambios de manera temporal 
 
-### git stah list 
+### git stash list 
 
 te muestra todos los cambios almacenados
 
-### git cherry-pick
+### git stash pop
+
+devuelve lo que está en stash
+
+### git stash drop
+
+borra los cambios de stash
+
+### git clean
+
+borra archivos de git que no esten en staging
+
+--dry-run, para ve que archivos a borras
+
+-d para orrar los archivos
+
+### git cherry pick
