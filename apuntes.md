@@ -108,4 +108,10 @@ elimina el tag borado localmente de un repositorio remoto
 
 Te muestra las ramas 
 
-### git show-branch
+### git show-branch --all
+
+te muestra mas información sobre las ramas
+
+### gitk
+
+te muestra el repositorio de forma visual
