@@ -115,3 +115,15 @@ te muestra mas información sobre las ramas
 ### gitk
 
 te muestra el repositorio de forma visual
+
+### git rebase rama 
+
+fusiona los commits de dos ramas para que pareciera que fueran la misma
+
+### git stash
+
+guarda los cambios de manera temporal 
+
+### git stah list 
+
+te muestra todos los cambios almacenados
