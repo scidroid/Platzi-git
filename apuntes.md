@@ -127,3 +127,5 @@ guarda los cambios de manera temporal
 ### git stah list 
 
 te muestra todos los cambios almacenados
+
+### git cherry-pick
