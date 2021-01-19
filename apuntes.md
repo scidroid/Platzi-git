@@ -144,4 +144,6 @@ borra archivos de git que no esten en staging
 
 -d para orrar los archivos
 
-### git cherry pick
+### git cherry-pick commit
+
+trae un commit antiguoa una rama
